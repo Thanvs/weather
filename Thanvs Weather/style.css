@@ -1,0 +1,20 @@
+.container{
+    max-width: 400px !important;
+}
+
+body{
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
